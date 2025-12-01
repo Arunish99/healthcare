@@ -74,9 +74,3 @@ You can easily customize:
 Just edit the HTML & CSS files.
 
 ---
-
-
-
-
-
-Just tell me!
